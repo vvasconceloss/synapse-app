@@ -4,7 +4,7 @@
     "strict": true,
     "paths": {
       "@/*": [
-        "./*"
+        "./src/*"
       ]
     }
   },
@@ -12,6 +12,11 @@
     "**/*.ts",
     "**/*.tsx",
     ".expo/types/**/*.ts",
+    "types/expo-env.d.ts",
+    "types/nativewind-env.d.ts",
+    "types/nativewind-env.d.ts",
+    "types/expo-env.d.ts",
+    "nativewind-env.d.ts",
     "expo-env.d.ts"
   ]
 }
