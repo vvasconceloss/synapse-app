@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "Server",
+    "App",
+    "Typescript",
+    "Node"
+  ],
+  "author": "Victor Vasconcelos and Hugo Calado",
+  "license": "MIT",
+  "type": "commonjs",
+  "description": "The server side developed with typescript",
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.2"
+  }
+}
